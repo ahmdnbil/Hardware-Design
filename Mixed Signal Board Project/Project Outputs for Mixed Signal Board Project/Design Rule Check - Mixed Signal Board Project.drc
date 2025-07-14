@@ -1,0 +1,115 @@
+Protel Design System Design Rule Check
+PCB File : D:\ME\Career\03.PCB\Projects\Mixed Signal Board Project\Mixed Signal Board Project.PcbDoc
+Date     : 14-Jul-25
+Time     : 10:37:02 PM
+
+Processing Rule : Clearance Constraint (Gap=0.1mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.127mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+   Violation between Un-Routed Net Constraint: Polygon  (NONET_L01_P033) on Top Layer Dead Copper - Net Not Assigned.
+   Violation between Isolated copper: Split Plane  (+12V) on VCC. Copper island connected to pads/vias detected. Copper area is : 0.08 sq. mm
+   Violation between Isolated copper: Split Plane  (+12V) on VCC. Copper island connected to pads/vias detected. Copper area is : 0.092 sq. mm
+   Violation between Isolated copper: Split Plane  (+12V) on VCC. Copper island connected to pads/vias detected. Copper area is : 0.106 sq. mm
+   Violation between Isolated copper: Split Plane  (+12V) on VCC. Copper island connected to pads/vias detected. Copper area is : 0.356 sq. mm
+   Violation between Isolated copper: Split Plane  (+12V) on VCC. Dead copper detected. Copper area is : 0.073 sq. mm
+   Violation between Isolated copper: Split Plane  (+12V) on VCC. Dead copper detected. Copper area is : 0.078 sq. mm
+   Violation between Isolated copper: Split Plane  (+12V) on VCC. Dead copper detected. Copper area is : 0.082 sq. mm
+   Violation between Isolated copper: Split Plane  (+3V3) on VCC. Copper island connected to pads/vias detected. Copper area is : 0.075 sq. mm
+   Violation between Isolated copper: Split Plane  (+3V3) on VCC. Copper island connected to pads/vias detected. Copper area is : 0.151 sq. mm
+   Violation between Isolated copper: Split Plane  (+3V3) on VCC. Copper island connected to pads/vias detected. Copper area is : 0.186 sq. mm
+   Violation between Isolated copper: Split Plane  (+3V3) on VCC. Copper island connected to pads/vias detected. Copper area is : 0.212 sq. mm
+   Violation between Isolated copper: Split Plane  (+3V3) on VCC. Copper island connected to pads/vias detected. Copper area is : 333.774 sq. mm
+   Violation between Isolated copper: Split Plane  (+3V3) on VCC. Dead copper detected. Copper area is : 0.09 sq. mm
+   Violation between Isolated copper: Split Plane  (+3V3) on VCC. Dead copper detected. Copper area is : 0.093 sq. mm
+   Violation between Isolated copper: Split Plane  (+3V3) on VCC. Dead copper detected. Copper area is : 0.436 sq. mm
+   Violation between Isolated copper: Split Plane  (GND) on GND. Copper island connected to pads/vias detected. Copper area is : 0 sq. mm
+   Violation between Isolated copper: Split Plane  (GND) on GND. Copper island connected to pads/vias detected. Copper area is : 0 sq. mm
+   Violation between Isolated copper: Split Plane  (GND) on GND. Copper island connected to pads/vias detected. Copper area is : 0.003 sq. mm
+   Violation between Isolated copper: Split Plane  (GND) on GND. Copper island connected to pads/vias detected. Copper area is : 0.004 sq. mm
+   Violation between Isolated copper: Split Plane  (GND) on GND. Copper island connected to pads/vias detected. Copper area is : 0.182 sq. mm
+   Violation between Isolated copper: Split Plane  (GND) on GND. Copper island connected to pads/vias detected. Copper area is : 0.19 sq. mm
+   Violation between Isolated copper: Split Plane  (GND) on GND. Copper island connected to pads/vias detected. Copper area is : 0.213 sq. mm
+   Violation between Isolated copper: Split Plane  (GND) on GND. Copper island connected to pads/vias detected. Copper area is : 0.213 sq. mm
+   Violation between Isolated copper: Split Plane  (GND) on GND. Copper island connected to pads/vias detected. Copper area is : 0.213 sq. mm
+   Violation between Isolated copper: Split Plane  (GND) on GND. Copper island connected to pads/vias detected. Copper area is : 0.213 sq. mm
+   Violation between Isolated copper: Split Plane  (GND) on GND. Copper island connected to pads/vias detected. Copper area is : 0.213 sq. mm
+   Violation between Isolated copper: Split Plane  (GND) on GND. Copper island connected to pads/vias detected. Copper area is : 0.213 sq. mm
+   Violation between Isolated copper: Split Plane  (GND) on GND. Copper island connected to pads/vias detected. Copper area is : 0.213 sq. mm
+   Violation between Isolated copper: Split Plane  (GND) on GND. Copper island connected to pads/vias detected. Copper area is : 0.213 sq. mm
+   Violation between Isolated copper: Split Plane  (GND) on GND. Copper island connected to pads/vias detected. Copper area is : 438.306 sq. mm
+   Violation between Isolated copper: Split Plane  (GND) on GND. Dead copper detected. Copper area is : 0.073 sq. mm
+   Violation between Isolated copper: Split Plane  (GND) on GND. Dead copper detected. Copper area is : 0.08 sq. mm
+   Violation between Isolated copper: Split Plane  (GND) on GND. Dead copper detected. Copper area is : 0.251 sq. mm
+   Violation between Isolated copper: Split Plane  (GND) on GND. Dead copper detected. Copper area is : 0.289 sq. mm
+Rule Violations :35
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.1mm) (Max=0.762mm) (Preferred=0.254mm) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+   Violation between Starved Thermal on GND: Via (11.201mm,33.505mm) from Top Layer to Bottom Layer. Blocked 2 out of 4 entries.
+   Violation between Starved Thermal on VCC: Via (11.43mm,32.055mm) from Top Layer to Bottom Layer. Only 45% copper is connected to the hole.
+   Violation between Starved Thermal on VCC: Via (13.132mm,4.623mm) from Top Layer to Bottom Layer. Only 50% copper is connected to the hole.
+   Violation between Starved Thermal on VCC: Via (13.157mm,4.039mm) from Top Layer to Bottom Layer. Blocked 2 out of 4 entries.
+   Violation between Starved Thermal on VCC: Via (13.741mm,4.623mm) from Top Layer to Bottom Layer. Only 41% copper is connected to the hole.
+   Violation between Starved Thermal on VCC: Via (13.818mm,3.734mm) from Top Layer to Bottom Layer. Blocked 2 out of 4 entries.
+   Violation between Starved Thermal on VCC: Via (14.275mm,4.597mm) from Top Layer to Bottom Layer. Only 46% copper is connected to the hole.
+   Violation between Starved Thermal on VCC: Via (17.374mm,31.801mm) from Top Layer to Bottom Layer. Blocked 3 out of 4 entries.
+   Violation between Starved Thermal on GND: Via (23.19mm,28.346mm) from Top Layer to Bottom Layer. Blocked 3 out of 4 entries.
+   Violation between Starved Thermal on GND: Via (28.854mm,33.115mm) from Top Layer to Bottom Layer. Blocked 2 out of 4 entries.
+   Violation between Starved Thermal on VCC: Via (29.212mm,32.577mm) from Top Layer to Bottom Layer. Blocked 3 out of 4 entries.
+   Violation between Starved Thermal on GND: Via (43.51mm,30.912mm) from Top Layer to Bottom Layer. Only 36% copper is connected to the hole.
+   Violation between Starved Thermal on GND: Via (43.891mm,31.445mm) from Top Layer to Bottom Layer. Blocked 2 out of 4 entries.
+   Violation between Starved Thermal on GND: Via (44.196mm,30.836mm) from Top Layer to Bottom Layer. Blocked 3 out of 4 entries.
+   Violation between Starved Thermal on GND: Via (44.552mm,31.445mm) from Top Layer to Bottom Layer. Blocked 2 out of 4 entries.
+   Violation between Starved Thermal on GND: Via (44.831mm,30.861mm) from Top Layer to Bottom Layer. Blocked 2 out of 4 entries.
+   Violation between Starved Thermal on GND: Via (45.568mm,31.445mm) from Top Layer to Bottom Layer. Only 45% copper is connected to the hole.
+   Violation between Starved Thermal on GND: Via (47.854mm,10.541mm) from Top Layer to Bottom Layer. Blocked 4 out of 4 entries.
+   Violation between Starved Thermal on GND: Via (49.606mm,23.292mm) from Top Layer to Bottom Layer. Only 50% copper is connected to the hole.
+   Violation between Starved Thermal on VCC: Via (50.267mm,31.623mm) from Top Layer to Bottom Layer. Blocked 2 out of 4 entries.
+   Violation between Starved Thermal on GND: Via (54.127mm,19.279mm) from Top Layer to Bottom Layer. Blocked 3 out of 4 entries.
+   Violation between Starved Thermal on GND: Via (54.254mm,18.517mm) from Top Layer to Bottom Layer. Blocked 2 out of 4 entries.
+   Violation between Starved Thermal on GND: Via (54.762mm,19.152mm) from Top Layer to Bottom Layer. Only 32% copper is connected to the hole.
+   Violation between Starved Thermal on VCC: Via (63.805mm,6.731mm) from Top Layer to Bottom Layer. Blocked 3 out of 4 entries.
+   Violation between Starved Thermal on VCC: Via (63.881mm,7.341mm) from Top Layer to Bottom Layer. Blocked 2 out of 4 entries.
+   Violation between Starved Thermal on VCC: Via (8.357mm,5.791mm) from Top Layer to Bottom Layer. Blocked 2 out of 4 entries.
+   Violation between Starved Thermal on VCC: Via (8.357mm,6.452mm) from Top Layer to Bottom Layer. Only 45% copper is connected to the hole.
+   Violation between Starved Thermal on VCC: Via (8.382mm,5.156mm) from Top Layer to Bottom Layer. Only 42% copper is connected to the hole.
+   Violation between Starved Thermal on VCC: Via (8.992mm,5.766mm) from Top Layer to Bottom Layer. Blocked 2 out of 4 entries.
+   Violation between Starved Thermal on VCC: Via (8.992mm,6.477mm) from Top Layer to Bottom Layer. Blocked 2 out of 4 entries.
+   Violation between Starved Thermal on VCC: Via (9.042mm,5.156mm) from Top Layer to Bottom Layer. Only 44% copper is connected to the hole.
+Rule Violations :31
+
+Processing Rule : Hole Size Constraint (Min=0.025mm) (Max=2.54mm) (All)
+   Violation between Hole Size Constraint: (3.12mm > 2.54mm) Pad J3-(11.151mm,65.71mm) on Multi-Layer Actual Hole Size = 3.12mm
+   Violation between Hole Size Constraint: (3.12mm > 2.54mm) Pad J3-(22.581mm,65.71mm) on Multi-Layer Actual Hole Size = 3.12mm
+   Violation between Hole Size Constraint: (3.5mm > 2.54mm) Pad MH1-1(3.581mm,66.396mm) on Multi-Layer Actual Hole Size = 3.5mm
+   Violation between Hole Size Constraint: (3.5mm > 2.54mm) Pad MH2-1(4mm,4mm) on Multi-Layer Actual Hole Size = 3.5mm
+   Violation between Hole Size Constraint: (3.5mm > 2.54mm) Pad MH3-1(67.081mm,3.404mm) on Multi-Layer Actual Hole Size = 3.5mm
+   Violation between Hole Size Constraint: (3.5mm > 2.54mm) Pad MH4-1(66.929mm,66.421mm) on Multi-Layer Actual Hole Size = 3.5mm
+Rule Violations :6
+
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+
+Violations Detected : 72
+Waived Violations : 0
+PCB Health Issues : 0
+Time Elapsed        : 00:00:03

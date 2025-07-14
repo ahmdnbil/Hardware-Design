@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=GND Pin=C43-1
+Change Component Footprint: Designator=C8 Old Footprint=CAP_P196_102X287_H332_RAD_TH New Footprint=CAP_0805
+Change component parameters: Designator = "C8" ("C8"); Footprint = "CAP_P196_102X287_H332_RAD_TH"; UniqueID = "\JHTYTASE" ("\JHTYTASE")
+Change component parameters (AddParameter): Name = "Alternate Part Number-1"; Value = "GRM2195C1H103JA01D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Samsung"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "C0805C103K5RECAUTO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number-1"; Value = "0805B103K500CT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier-1"; Value = "SIRICOM"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C43-2
+Added Pin To Net: NetName=NetC43_1 Pin=C43-1
+Added Pin To Net: NetName=NetC43_1 Pin=U6-10
+Added Net: Name=NetC43_1
+Change Class Name : Old Net Name=ADC Chip New Net Name=[7] ADC Chip
+Change Class Name : Old Net Name=CH340C New Net Name=[6] CH340C
+Change Class Name : Old Net Name=DAC and MIC New Net Name=[8] DAC and MIC
+Change Class Name : Old Net Name=Ethernet PHY New Net Name=[4] Ethernet PHY
+Change Class Name : Old Net Name=Motor Driver-2 New Net Name=[10] Motor Driver-2
+Change Class Name : Old Net Name=Motor Driver Schematic New Net Name=[5] Motor Driver Schematic
+Change Class Name : Old Net Name=Power Input and Regualtor New Net Name=[11] Power Input and Regualtor
+Change Class Name : Old Net Name=STM32F103 Debugger New Net Name=[3] STM32F103 Debugger
+Change Class Name : Old Net Name=STM32F407 Controller New Net Name=[9] STM32F407 Controller
+Added Member To Class: ClassName=[3] STM32F103 Debugger Member=Component C8 10nF

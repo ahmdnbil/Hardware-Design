@@ -1,0 +1,8 @@
+Change Component Footprint: Designator=C25 Old Footprint=ACAP_P305_D393_H393_RAD New Footprint=ACAP_P236_D305_H303_RAD
+Change component parameters: Designator = "C25" ("C25"); Footprint = "ACAP_P305_D393_H393_RAD"; UniqueID = "\EDLOIZOQ" ("\EDLOIZOQ")
+Change component parameters (AddParameter): Name = "Alternate Part Number-1"; Value = "NA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "Radial-SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Nichicon"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "UWT1E101MCL1GS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number-1"; Value = "UWT1E101MCL1GS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier-1"; Value = "SP ROAD"; VariantName = "[No Variations]"

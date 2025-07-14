@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=NTJRST_F408 Pin=U1-18
+Added Pin To Net: NetName=NTJRST_F408 Pin=U8-14
+Change Net Name : Old Net Name=NTJRST_F408 New Net Name=NTJRST_F407

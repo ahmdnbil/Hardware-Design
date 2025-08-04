@@ -117,40 +117,6 @@ GenerateClassCluster=0
 DocumentUniqueId=CHRLVHTK
 
 [Document5]
-DocumentPath=..\..\Source\02. Esteem\01. Complete Electronics\EsteemPCB Library\ESTEEMPCBLIB.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=GOWHBXDR
-
-[Document6]
-DocumentPath=..\..\Source\02. Esteem\01. Complete Electronics\EsteemPCB Library\ESTEEMPCBLIB.PCBLIB
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=UUKKAVFE
-
-[Document7]
 DocumentPath=[5] Motor Driver Schematic.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -167,7 +133,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VFLGGOQZ
 
-[Document8]
+[Document6]
 DocumentPath=[6] CH340C.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -184,7 +150,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PBRRJGMW
 
-[Document9]
+[Document7]
 DocumentPath=[7] ADC Chip.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -201,7 +167,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DSXAHKRM
 
-[Document10]
+[Document8]
 DocumentPath=[8] DAC and MIC.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -218,7 +184,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WSKOAXNL
 
-[Document11]
+[Document9]
 DocumentPath=[9] STM32F407 Controller.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -235,7 +201,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WEABVGWM
 
-[Document12]
+[Document10]
 DocumentPath=[10] Motor Driver-2.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -252,7 +218,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PCGMHRFK
 
-[Document13]
+[Document11]
 DocumentPath=[11] Power Input and Regualtor.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -269,7 +235,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WNAYIACB
 
-[Document14]
+[Document12]
 DocumentPath=Mixed Signal Board Project.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1

@@ -1,0 +1,74 @@
+Protel Design System Design Rule Check
+PCB File : D:\ME\Career\03.PCB\Projects\Mixed Signal Board Project\Mixed Signal Board Project.PcbDoc
+Date     : 15-Jul-25
+Time     : 2:37:07 PM
+
+Processing Rule : Clearance Constraint (Gap=0.1mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.127mm) (All),(All)
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Track (49.276mm,6.604mm)(54.292mm,6.604mm) on Top Layer And Via (53.797mm,6.883mm) from Top Layer to Bottom Layer 
+Rule Violations :1
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+   Violation between Short-Circuit Constraint: Between Track (49.276mm,6.604mm)(54.292mm,6.604mm) on Top Layer And Via (53.797mm,6.883mm) from Top Layer to Bottom Layer Location : [X = 79.197mm][Y = 32.095mm]
+Rule Violations :1
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+   Violation between Un-Routed Net Constraint: Polygon  (NONET_L01_P033) on Top Layer Dead Copper - Net Not Assigned.
+   Violation between Isolated copper: Split Plane  (+12V) on VCC. Copper island connected to pads/vias detected. Copper area is : 0.08 sq. mm
+   Violation between Isolated copper: Split Plane  (+12V) on VCC. Copper island connected to pads/vias detected. Copper area is : 0.092 sq. mm
+   Violation between Isolated copper: Split Plane  (+12V) on VCC. Copper island connected to pads/vias detected. Copper area is : 0.106 sq. mm
+   Violation between Isolated copper: Split Plane  (+12V) on VCC. Copper island connected to pads/vias detected. Copper area is : 0.356 sq. mm
+   Violation between Isolated copper: Split Plane  (+12V) on VCC. Dead copper detected. Copper area is : 0.073 sq. mm
+   Violation between Isolated copper: Split Plane  (+12V) on VCC. Dead copper detected. Copper area is : 0.078 sq. mm
+   Violation between Isolated copper: Split Plane  (+12V) on VCC. Dead copper detected. Copper area is : 0.082 sq. mm
+   Violation between Isolated copper: Split Plane  (+3V3) on VCC. Copper island connected to pads/vias detected. Copper area is : 0.075 sq. mm
+   Violation between Isolated copper: Split Plane  (+3V3) on VCC. Copper island connected to pads/vias detected. Copper area is : 0.186 sq. mm
+   Violation between Isolated copper: Split Plane  (+3V3) on VCC. Copper island connected to pads/vias detected. Copper area is : 0.212 sq. mm
+   Violation between Isolated copper: Split Plane  (+3V3) on VCC. Copper island connected to pads/vias detected. Copper area is : 333.491 sq. mm
+   Violation between Isolated copper: Split Plane  (+3V3) on VCC. Dead copper detected. Copper area is : 0.436 sq. mm
+   Violation between Isolated copper: Split Plane  (GND) on GND. Copper island connected to pads/vias detected. Copper area is : 0.003 sq. mm
+   Violation between Isolated copper: Split Plane  (GND) on GND. Copper island connected to pads/vias detected. Copper area is : 0.004 sq. mm
+   Violation between Isolated copper: Split Plane  (GND) on GND. Copper island connected to pads/vias detected. Copper area is : 0.182 sq. mm
+   Violation between Isolated copper: Split Plane  (GND) on GND. Copper island connected to pads/vias detected. Copper area is : 0.19 sq. mm
+   Violation between Isolated copper: Split Plane  (GND) on GND. Copper island connected to pads/vias detected. Copper area is : 0.213 sq. mm
+   Violation between Isolated copper: Split Plane  (GND) on GND. Copper island connected to pads/vias detected. Copper area is : 0.213 sq. mm
+   Violation between Isolated copper: Split Plane  (GND) on GND. Copper island connected to pads/vias detected. Copper area is : 0.213 sq. mm
+   Violation between Isolated copper: Split Plane  (GND) on GND. Copper island connected to pads/vias detected. Copper area is : 0.213 sq. mm
+   Violation between Isolated copper: Split Plane  (GND) on GND. Copper island connected to pads/vias detected. Copper area is : 0.213 sq. mm
+   Violation between Isolated copper: Split Plane  (GND) on GND. Copper island connected to pads/vias detected. Copper area is : 0.213 sq. mm
+   Violation between Isolated copper: Split Plane  (GND) on GND. Copper island connected to pads/vias detected. Copper area is : 0.213 sq. mm
+   Violation between Isolated copper: Split Plane  (GND) on GND. Copper island connected to pads/vias detected. Copper area is : 0.213 sq. mm
+   Violation between Isolated copper: Split Plane  (GND) on GND. Copper island connected to pads/vias detected. Copper area is : 443.937 sq. mm
+   Violation between Isolated copper: Split Plane  (GND) on GND. Dead copper detected. Copper area is : 0.073 sq. mm
+   Violation between Isolated copper: Split Plane  (GND) on GND. Dead copper detected. Copper area is : 0.08 sq. mm
+   Violation between Isolated copper: Split Plane  (GND) on GND. Dead copper detected. Copper area is : 0.289 sq. mm
+Rule Violations :29
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.1mm) (Max=0.762mm) (Preferred=0.254mm) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.025mm) (Max=3.5mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+
+Violations Detected : 31
+Waived Violations : 0
+PCB Health Issues : 0
+Time Elapsed        : 00:00:02
